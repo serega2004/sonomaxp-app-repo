@@ -1,0 +1,10 @@
+[Section]
+Name = One Core API (Base)
+Version = 3.0.0
+License = Unknown
+Description = Adds compatibility with some modern apps to Windows XP
+Category = 11
+URLSite = https://github.com/Skulltrail192/One-Core-API-Binaries
+URLDownload = https://download1585.mediafire.com/6cqbzbmn9fvgZD8HHSrxzcUVMdwMS8udTOc6XMYu-GWedPR_huGmlvJG_iadTx4_gChulGCi-fLlkAPBkE84a8LK3NJn2ED7XP1dzUOMjgx10bMQikB_E5MnmMRb3Lfc8dZNym14ii3r46GIIsXn_qJDmqpW7X4hDI7GmabjqqU_ew/tm3myt2gsef9azu/one-core-api-app-base.exe
+SHA1 = 66E7EDEE11D26A3A1C10466380F372D07B92BF31
+SizeBytes = 24964813
