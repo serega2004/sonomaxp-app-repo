@@ -1,0 +1,11 @@
+[Section]
+Name = Paint (Windows 7)
+Version = 6.1.7600.16385
+License = Unknown
+Description = A Windows 7 version of Paint program.
+Category = 3
+URLSite = https://www.microsoft.com
+URLDownload = https://download1500.mediafire.com/1l62q4th025golUjKyzpI8cXYqVzgei6xgIq0dzIy5nf9fSHfAfuFSFlON1VDvs-gK5RxCrSsGebdk3z4m3iOJw1aKW-XFAQ9bskEy9WPY6HQPzdXeWPxuZ1z3XA7_4OZaIGzywd-LIA_-O87m5g3USxYWcCRlrmn7dbiSf6bYDOkQ/z92pxy614z61w2a/paint-win7.msi
+SHA1 = D2CF0F1261A0243243A2A022FB65ACEF615D0909
+SizeBytes = 3739157
+Icon = paint-win7.ico
