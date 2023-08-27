@@ -2,7 +2,7 @@
 Name = Paint (Windows 7)
 Version = 6.1.7600.16385
 License = Unknown
-Description = A Windows 7 version of Paint program.
+Description = A Windows 7 version of Paint program. Requires One-Core-API to be installed.
 Category = 3
 URLSite = https://www.microsoft.com
 URLDownload = http://archive.org/download/sonomaxp-appmgr-mirror_202308/paint-win7.msi
