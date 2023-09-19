@@ -6,5 +6,5 @@ Description = Adds compatibility with some modern apps to Windows XP
 Category = 11
 URLSite = https://github.com/Skulltrail192/One-Core-API-Binaries
 URLDownload = http://archive.org/download/sonoma_xp_appmgr_mirror_2/ocapi_setup.exe
-SHA1 = d9438ae5cab43b87bb8bd37a17a8e3204f11126d
-SizeBytes = 45058713
+SHA1 = 4089c036fdec050a05a40c5a42ffb6bbfccb3cd0
+SizeBytes = 53528732
